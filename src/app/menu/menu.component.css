@@ -1,0 +1,8 @@
+.main-wrapper {
+    font-family: 'Nunito', sans-serif;
+
+}
+.active {
+    --tw-text-opacity: 1 !important;
+    color: rgb(29 78 216 / var(--tw-text-opacity)) !important;
+}

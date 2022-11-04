@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;900&display=swap');
+body {
+    /* font-family: 'Nunito', sans-serif; */
+
+}
+.active {
+    --tw-text-opacity: 1 !important;
+    color: rgb(29 78 216 / var(--tw-text-opacity)) !important;
+}

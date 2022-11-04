@@ -1,0 +1,47 @@
+     <!-- How partner -->
+        <div class="bg-white max-w-6xl mx-auto p-20">
+            <div>
+                <p class="text-center text-md font-semibold text-[#212529] leading-relaxed max-w-3xl mx-auto">We believe
+                    in building each other and hence</p>
+                <h4 class="text-3xl font-semibold mb-8 font-sans text-[#212529] text-center">Work with some amazing
+                    partners</h4>
+                <p class="text-[#8492A6] font-base text-center text-md leading-relaxed  mb-8 max-w-2xl mx-auto">Start
+                    working with <span class="text-blue-700 font-normal">Digit</span> that can provide everything you
+                    need to generate <br> awareness, drive traffic, connect.</p>
+            </div>
+            <div class="mb-36 flex flex-col gap-10">
+                <div class="flex gap-24 w-20 cursor-e-resize">
+                    <!-- Slide Items -->
+                    <div
+                        class="w-48 px-40 h-48 max-h-48 rounded-lg shadow-md text-center flex flex-col  slideItem items-center justify-center">
+                        <div class="">1
+                            <img src="../../assets/amazon.svg" alt="">
+                        </div>
+                    </div>
+                    <div
+                        class="w-48 px-40 h-48 max-h-48 rounded-lg shadow-md text-center flex flex-col  slideItemitems-center justify-center">
+                        <div class="">2</div>
+                    </div>
+                    <div
+                        class="w-48 px-40 h-48 max-h-48 rounded-lg shadow-md text-center flex flex-col slideItem items-center justify-center">
+                        <div class="">3</div>
+                    </div>
+                    <div
+                        class="w-48 px-40 h-48 max-h-48 rounded-lg shadow-md text-center flex flex-col slideItem items-center justify-center">
+                        <div class="">4</div>
+                    </div>
+                    <div
+                        class="w-48 px-40 h-48 max-h-48 rounded-lg shadow-md text-center flex flex-col slideItem items-center justify-center">
+                        <div class="">5</div>
+                    </div>
+                    <div
+                        class="w-48 px-40 h-48 max-h-48 rounded-lg shadow-md text-center flex flex-col slideItem items-center justify-center">
+                        <div class="">6</div>
+                    </div>
+                </div>
+                <div class="flex justify-center gap-3">
+                    <button class="bg-slate-400 rounded-md w-5 h-5 mt-30" appPrev></button>
+                    <button class="bg-slate-400 rounded-md w-5 h-5 mt-30" appNext></button>
+                </div>
+            </div>
+        </div>
